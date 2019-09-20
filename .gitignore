@@ -244,3 +244,7 @@
 /packages/bootstrap.3.0.0/Content/Content/bootstrap-theme.min.css
 /packages/bootstrap.3.0.0/Content/Content/bootstrap-theme.css
 /packages/Antlr.3.4.1.9004/lib/Antlr3.Runtime.pdb
+/ODataService/obj/DVE/DesignTimeResolveAssemblyReferencesInput.cache
+/ODataService/obj/DVE/ODataService.csproj.CoreCompileInputs.cache
+/ODataService/obj/Release/ODataService.csproj.CoreCompileInputs.cache
+/ODataService/obj/Release/ODataService.csprojAssemblyReference.cache
